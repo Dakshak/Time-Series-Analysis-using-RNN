@@ -1,1 +1,1 @@
-# Time-Series-Analysis-using-RNN
+The git repo contains implementation of an RNN. This project is solely for the purpose of demonstrating the effectiveness of RNNs when dealing with Time Series data. Here, we attempt to predict Google Stock Market Price.
